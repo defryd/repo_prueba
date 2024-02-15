@@ -3,6 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+div.container{
+    margin: 10px auto;
+    width: 80%;
+    border: 2px solid black;
+    padding: 15px;
+}
 div.container h1{
     color: yellowgreen;
+}
+.container p{
+    margin: 10px;
+    text-align: right;
 }
