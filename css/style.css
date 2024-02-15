@@ -11,8 +11,11 @@ div.container{
 }
 div.container h1{
     color: yellowgreen;
+    text-shadow: -4px 5px 2px #000000;
+    text-align: center;
 }
 .container p{
     margin: 10px;
     text-align: right;
+    font-family: 'Courier New', Courier, monospace;
 }
