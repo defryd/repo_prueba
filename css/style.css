@@ -9,7 +9,7 @@ div.container{
     border: 2px solid black;
     padding: 15px;
 }
-div.container h1{
+div.container h2{
     color: yellowgreen;
     text-shadow: -4px 5px 2px #000000;
     text-align: center;
@@ -27,6 +27,7 @@ div.cabecero{
 div.cabecero h1{
     color: brown;
     text-shadow: -1px 2px 2px #000000;
+    text-align: center;
 }
 div.cabecero p{
     color: white;
