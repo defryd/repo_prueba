@@ -34,5 +34,12 @@ div.cabecero h1{
 }
 div.cabecero p{
     color: white;
-    text-align: right;
+    text-align: center;
+}
+div.footer{
+    background-color: aquamarine;
+    padding: 10px;
+}
+div.footer p{
+    text-align: left;
 }
